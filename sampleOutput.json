@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "CNBC US Source",
+    "title": "Weekly jobless claims jump to 231,000, the highest since August - CNBC",
+    "description": null,
+    "url": "https://www.cnbc.com/2024/05/09/weekly-jobless-claims-jump-to-231000-the-highest-since-august.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107412081-1715175010765-gettyimages-2151461294-JOB_OPENINGS.jpeg?v=1715175048&w=1920&h=1080",
+    "publishedAt": "2024-05-09T12:32:47Z",
+    "content": "Initial filings for unemployment benefits hit their highest level since late August 2023 in a potential sign that an otherwise robust labor market is changing.\r\nJobless claims totaled a seasonally ad… [+1739 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters",
+    "title": "Ascension warns of suspected cyberattack; clinical operations disrupted - Reuters",
+    "description": null,
+    "url": "https://www.reuters.com/technology/cybersecurity/ascension-warns-suspected-cyberattack-clinical-operations-disrupted-2024-05-08/",
+    "urlToImage": null,
+    "publishedAt": "2024-05-09T12:14:29Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hollywood Reporter"
+    },
+    "author": "Georg Szalai",
+    "title": "Warner Bros. Discovery Hits $86M Streaming Unit Profit, 99.6M Subs, Studios Profit Drops 70 Percent - Hollywood Reporter",
+    "description": "The conglomerate, led by CEO David Zaslav, posted a first-quarter drop of 11 percent in networks unit advertising revenue; its studios unit was hit by the Hollywood strikes' fallout and weaker gaming results.",
+    "url": "http://www.hollywoodreporter.com/business/business-news/warner-bros-discovery-q1-earnings-report-streaming-advertising-1235893835/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/DZ-new-headshot-HORIZONTAL.jpg?w=1024",
+    "publishedAt": "2024-05-09T11:32:53Z",
+    "content": "Warner Bros. Discovery posted a first-quarter profit of $86 million for its Direct-to-Consumer (DTC) unit, which includes its streaming and premium pay-TV services, compared with a $50 million year-a… [+7682 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters",
+    "title": "Bank of England moves closer to first rate cut since 2020 - Reuters",
+    "description": "By William Schomberg, David Milliken and Suban Abdulla",
+    "url": "https://www.reuters.com/markets/europe/bank-england-moves-closer-first-rate-cut-since-2020-2024-05-09/",
+    "urlToImage": "https://www.reuters.com/resizer/v2/HRCWHAZYMBLLTOZBL6O3AHHFHE.jpg?auth=48ed5a4c3f2991838b66e6f7993798580123114d13106d5854509de2e7208709&height=1005&width=1920&quality=80&smart=true",
+    "publishedAt": "2024-05-09T11:32:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "New York Post ",
+    "title": "California Subway manager attacked by customer demanding extra meat on his sandwich: 'What are you going to do, hit me over ham?’ - New York Post ",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL255cG9zdC5jb20vMjAyNC8wNS8wOS91cy1uZXdzL2NhbGlmb3JuaWEtc3Vid2F5LW1hbmFnZXItbW9uaXF1ZS1sYXJpb3MtYXR0YWNrZWQtYnktY3VzdG9tZXItZ2VvcmdlLXNhbmRvdmFsLW92ZXItZXh0cmEtaGFtL9IBhwFodHRwczovL255cG9zdC5jb20vMjAyNC8wNS8wOS91cy1uZXdzL2NhbGlmb3JuaWEtc3Vid2F5LW1hbmFnZXItbW9uaXF1ZS1sYXJpb3MtYXR0YWNrZWQtYnktY3VzdG9tZXItZ2VvcmdlLXNhbmRvdmFsLW92ZXItZXh0cmEtaGFtL2FtcC8?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-05-09T10:42:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Emily Stewart",
+    "title": "Corporate America Is Going Un-Woke: Reversing DEI, Sustainability Plan - Business Insider",
+    "description": "Companies were eager to undertake ESG and DEI efforts a few years ago. Now, their talk and actions are changing.",
+    "url": "https://www.businessinsider.com/woke-capitalism-reversal-google-unilever-bud-light-esg-dei-2024-5",
+    "urlToImage": "https://i.insider.com/663bd113f27898f532d531cc?width=1200&format=jpeg",
+    "publishedAt": "2024-05-09T09:57:00Z",
+    "content": "Unilever spent years crafting its image as a corporate goody-two-shoes. The owner of Dove, Vaseline, Hellmann's, and a bunch of other brands axed quarterly reporting and earnings guidance in the name… [+9304 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cnevpost.com"
+    },
+    "author": "Phate Zhang",
+    "title": "Tesla ramps up layoffs in China, report says - CnEVPost",
+    "description": "Tesla is escalating the scale of layoffs in China, with more cuts starting earlier this week, extending mid-April cuts, according to Bloomberg.",
+    "url": "https://cnevpost.com/2024/05/09/tesla-ramps-up-layoffs-china/",
+    "urlToImage": "https://img.cnevpost.com/2024/05/09171808/2024050909180842.jpg",
+    "publishedAt": "2024-05-09T09:21:00Z",
+    "content": "Tesla is escalating the scale of layoffs in China, with more cuts starting earlier this week, extending mid-April cuts, according to Bloomberg.\r\n(Image credit: CnEVPost)\r\nTesla (NASDAQ: TSLA) is esca… [+3578 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Motley Fool"
+    },
+    "author": "Sean Williams",
+    "title": "Time to Pounce: 2 Historically Cheap Ultra-High-Yield Energy Stocks That Are Begging to Be Bought Right Now - The Motley Fool",
+    "description": "These supercharged energy income stocks -- with an average yield of 9.87% -- can really fatten your pocketbook.",
+    "url": "https://www.fool.com/investing/2024/05/09/time-to-pounce-2-ultra-high-yield-energy-stocks/",
+    "urlToImage": "https://g.foolcdn.com/editorial/images/776410/businessman-counting-his-money-dividend-getty.jpg",
+    "publishedAt": "2024-05-09T09:21:00Z",
+    "content": "These supercharged energy income stocks -- with an average yield of 9.87% -- can really fatten your pocketbook.For more than a century, Wall Street has been a wealth-building machine. Today, investor… [+7748 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Financial Times",
+    "title": "China's exports return to growth as Beijing prioritises high-tech manufacturing - Financial Times",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzA4ODU2YTdmLWZjZTgtNDBhZS04YWUyLTNiZWVmMzExNzIyNNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-05-09T09:07:28Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Sophie Kiderlin",
+    "title": "U.S. Treasurys: investors consider remarks from Fed officials - CNBC",
+    "description": "U.S. Treasury yields rose on Thursday as investors considered remarks from Federal Reserve officials, scanning them for hints about the interest rate outlook.",
+    "url": "https://www.cnbc.com/2024/05/09/us-treasurys-investors-consider-remarks-from-fed-officials.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107406477-17140670672024-04-25t170509z_1543845308_rc2pd7ar7m1o_rtrmadp_0_usa-stocks.jpeg?v=1714067179&w=1920&h=1080",
+    "publishedAt": "2024-05-09T08:58:38Z",
+    "content": "U.S. Treasury yields were higher on Thursday as investors considered remarks from Federal Reserve officials, scanning them for hints about the interest rate outlook.\r\nThe yield on the 10-year Treasur… [+1297 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ambcrypto.com"
+    },
+    "author": "Himalay Patel",
+    "title": "Bitcoin at $61K: Are investors losing interest? THIS is a worrying sign - AMBCrypto News",
+    "description": "Bitcoin saw a drop in price as the rate of accumulation across all cohorts slowed down.",
+    "url": "https://ambcrypto.com/bitcoin-at-61k-are-investors-losing-interest-this-is-a-worrying-sign/",
+    "urlToImage": "https://ambcrypto.com/wp-content/uploads/2024/05/Bitcoin-Accumulation-1000x600.webp",
+    "publishedAt": "2024-05-09T08:04:14Z",
+    "content": "<ul><li>Bitcoin’s price fell as the rate of accumulation across all cohorts slowed down.</li><li>Addresses were largely unprofitable and had low incentives to sell their holdings.</li></ul>Bitcoin [B… [+2000 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Huileng Tan",
+    "title": "It looks like China may also think it's producing too much stuff - Business Insider",
+    "description": "The West has been complaining that China is overproducing goods and dumping them on the global markets, incurring the ire of Beijing.",
+    "url": "https://www.businessinsider.com/china-concerned-overproduction-lithium-battery-proposal-xi-europe-trip-2024-5",
+    "urlToImage": "https://i.insider.com/663c66d3f27898f532d54fdf?width=1200&format=jpeg",
+    "publishedAt": "2024-05-09T07:50:00Z",
+    "content": "The West has been complaining that China is overproducing goods and dumping them on the global markets. The comments have incurred the ire of Beijing, which has, as recently as Monday, denied the cla… [+3335 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Max A. Cherney and Stephen Nellis",
+    "title": "Arm shares tumble after its annual revenue forecast fails to impress investors - Yahoo Finance",
+    "description": "Arm's results handily beat expectations but its FY guidance missed, underscoring uncertainty around whether investors have lifted AI-related stocks more than...",
+    "url": "https://finance.yahoo.com/news/arms-quarterly-revenue-forecast-beats-200358956.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EDaoX4KAjT25SWUL21nCrA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/5c2b9fe0-0dd6-11ef-a7ff-efec5a8886f9",
+    "publishedAt": "2024-05-09T07:36:01Z",
+    "content": "(Reuters) Arm Holdings gave a full-year revenue forecast on Wednesday that missed the expectations of investors who had sent the chip designer's shares soaring last September following its IPO on opt… [+3501 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Chris Lau, Himari Semans",
+    "title": "Rat parts found in sliced white bread in Japan, sparking recall - CNN",
+    "description": "A major Japanese food supplier has recalled more than 100,000 packs of a popular brand of sliced white bread after rat parts were found inside some loaves.",
+    "url": "https://www.cnn.com/2024/05/09/food/japan-bread-rat-parts-recall-intl-hnk/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/img-4097.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-05-09T06:38:00Z",
+    "content": "A major Japanese food supplier has recalled more than 100,000 packs of a popular brand of sliced white bread after rat parts were found inside some loaves.\r\nThe latest scare adds to a raft of food sa… [+2898 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KCRA Sacramento"
+    },
+    "author": "Daniel Macht",
+    "title": "Will your PG&E bill go up or down? How a key vote by California regulators could impact you - KCRA Sacramento",
+    "description": "Experts say the revenue-neutral change for utilities could save some people — namely those with low incomes and electric car owners — money on their monthly bill while others will pay more.",
+    "url": "https://www.kcra.com/article/puc-vote-fixed-rate-electricity-proposed-decision-explained/60733214",
+    "urlToImage": "https://kubrick.htvapps.com/vidthumb/ccc39e1c-1cee-4867-b6a5-27742fa16ca1/thumb_1280x720_00001_1715200811_30130.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+    "publishedAt": "2024-05-09T06:25:00Z",
+    "content": "Californians already pay some of the highest electricity rates in the country. Now, regulators are poised to vote on a proposal to change how investor-owned utilities (IOUs) charge their customers. \r… [+3144 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "ScienceAlert",
+    "title": "AstraZeneca's COVID Vaccine Withdrawn – But Let's Untangle The Facts From The Fiction - ScienceAlert",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vYXN0cmF6ZW5lY2FzLWNvdmlkLXZhY2NpbmUtd2l0aGRyYXduLWJ1dC1sZXRzLXVudGFuZ2xlLXRoZS1mYWN0cy1mcm9tLXRoZS1maWN0aW9u0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-05-09T05:46:14Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Shubhangi Goel",
+    "title": "Tesla axed thousands of open roles, leaving three training positions - Business Insider",
+    "description": "The EV maker cut more than 3,400 job postings in North America — but it's still listing some open roles on LinkedIn.",
+    "url": "https://www.businessinsider.com/teslas-cuts-open-jobs-globally-hiring-freeze-musk-layoffs-cuts-2024-5",
+    "urlToImage": "https://i.insider.com/663c407f9686a6f37bfd7ce3?width=1200&format=jpeg",
+    "publishedAt": "2024-05-09T05:01:00Z",
+    "content": "If Tesla is your dream company, you may have to compete for one of just three listed US jobs.\r\nOn Wednesday, the electric-vehicle maker cut more than 3,400 job postings in North America to just three… [+1897 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "ZIMO ZHONG",
+    "title": "Stock market today: Asian shares mixed after Wall Street's lull stretches to a 2nd day - The Associated Press",
+    "description": "Asian shares are mixed after Wall Street’s lull stretched into a second day. China reported better than expected trade figures for April. U.S. futures were slightly lower and oil prices rose. On Wednesday, the S&P 500 closed little changed after a big three-d…",
+    "url": "https://apnews.com/article/stock-markets-rates-yen-96b2fdde58cd0d9e7556b140cdfa6882",
+    "urlToImage": "https://dims.apnews.com/dims4/default/bb2b1b7/2147483647/strip/true/crop/3859x2171+0+202/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd9%2Fed%2Fe94ae270b82a6dcad985e02b74ad%2Fcb8d26fd10874f34a8ac06d77fa582ed",
+    "publishedAt": "2024-05-09T04:33:00Z",
+    "content": "HONG KONG (AP) Asian shares were mixed on Thursday after Wall Streets lull stretched into a second day, with Chinese benchmarks rising after China reported better than expected trade figures for Apri… [+3979 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Trump Hosts Suckers Who Bought His NFTs & Guillermo Exclusivo with Chris Hemsworth & Anya Taylor-Joy - Jimmy Kimmel Live",
+    "description": "It was a day off from the Trump trial after Stormy Daniels caused quite a commotion yesterday, Nikki Haley took home 20% of the vote in the Indiana primary d...",
+    "url": "https://www.youtube.com/watch?v=pO2Hz8DB0uk",
+    "urlToImage": "https://i.ytimg.com/vi/pO2Hz8DB0uk/maxresdefault.jpg",
+    "publishedAt": "2024-05-09T03:45:01Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Anthony D'Alessandro",
+    "title": "Sony Apollo Paramount Merger Wouldn’t Reduce Theatrical Output, Though TV & Streaming Assets Would Be Shed - Deadline",
+    "description": "Sony Apollo Paramount Merger: Movie Output To Remain High, TV Assets To Be Sold",
+    "url": "http://deadline.com/2024/05/sony-apollo-paramount-merger-streaming-box-office-1235909561/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/04/Apollo-Paramount-Sony.jpg?w=1024",
+    "publishedAt": "2024-05-09T03:20:00Z",
+    "content": "Should Sony and Apollo get their hooks into Paramount Global their strategy would be to keep theatrical release output steady between both studios –not reduced– while cutting the more burdensome part… [+3247 chars]"
+    }
+    ]
+    }
